@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Contact Tracing App</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="official_appname">SAFE KA DITO</string>
+    <string name="sign_in">Please Sign-in to continue</string>
+    <string name="welcome">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="login">Login</string>
+    <string name="notRegister">Dont have account yet?</string>
+    <string name="signup">Sign-up</string>
+    <string name="create">Create Account</string>
+    <string name="fill_up">Please fill the input below here</string>
+    <string name="required">Required*</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="suffixes">Suffixes</string>
+    <string name="alias">Alias</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="continueCredentials">Please Continue your</string>
+    <string name="inputHere">Credentials Here</string>
+    <string name="email">Email</string>
+    <string name="contact">Contact Number</string>
+    <string name="first_password">First Password</string>
+    <string name="second_password">Second Password</string>
+    <string name="swipe_left">Swipe Left</string>
+    <string name="title_activity_splash_screen">activity_splash_screen</string>
+
+    <string name="hello_world">Hello Square World!</string>
+    <string name="covid">COVID 19</string>
+    <string name="covid_19_app">Covid 19 App</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="vtracker">Vtracker</string>
+    <string name="vtacker">VTracker App</string>
+    <string name="get_started">Get STARTED</string>
+
+    <string name="createAccount">Create Account</string>
+    <string name="fullName">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Sign Up</string>
+    <string name="swipe_right">Swipe right to login</string>
+    <string name="dashboard_search">Search...</string>
+    <string name="dashboard_header">Covid Tracing app</string>
+    <string name="dashboard_add_patient">Add Patient</string>
+    <string name="dashboard_view_patient">View Patient</string>
+    <string name="dashboard_incoming">Incoming</string>
+    <string name="add_patient_fragment">Add Patient Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_patient_fragment">View Patient Fragment</string>
+    <string name="card_two_fragment">Card Two Fragment</string>
+    <string name="card_four_fragment">Card Four Fragment</string>
+    <string name="card_five_fragment">Card Five Fragment</string>
+    <string name="card_six_fragment">Card Six Fragment</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dashboard_title">Patient List</string>
+    <string name="otp_message">A one time password has been sent to your email</string>
+    <string name="verify_otp">Verify</string>
+    <string name="did_not_receive_otp">Did not receive the OTP?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="cancel_verify_otp">Cancel</string>
+    <string name="submit_email">Submit</string>
+    <string name="submit_email_message">Please enter your email to receive a code</string>
+    <string name="reset_password_message">Please type your new password below</string>
+    <string name="otp_email">Verification OTP was send in your email</string>
+    <string name="verify">VERIFY</string>
+    <string name="success">Success!</string>
+    <string name="successfully_created">Congratulations, Your account was successfully created</string>
+    <string name="invalid_otp_input">Sorry, but your OTP is invalid in our server which your account was not successfully created</string>
+    <string name = "otp_expires">Sorry, your OTP were expired</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="email_exist">Sorry,your email does not exist in the server kindly please double check it Thank you</string>
+    <string name="exist_email">EMAIL EXIST</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="password_instructions">Password Requirements</string>
+
+    <string name="password_requirement_list">
+        <li>Password must have 8 characters</li>\n
+        <li>Password must have capital and lower case</li>
+        <li>Password must have digits</li>
+    </string>
+    <string name="no_internet">NO INTERNET</string>
+    <string name="check_connection">Please check your internet connection in order you can proceed registration Thank you!</string>
+    <string name="connect">Connect</string>
+    <string name="wifi">WIFI</string>
+    <string name="mobile_data">MOBILE DATA</string>
+    <string name="maintenance">MAINTENANCE</string>
+    <string name="maintenance_description">Sorry, app is currently under maintenance,we will get back soon. Thank you for your consideration!</string>
+    <string name="success_created">Congratulations, Your account has been successfully created!</string>
+    <string name="invalid_otp_header">Invalid OTP</string>
+
+
+</resources>
