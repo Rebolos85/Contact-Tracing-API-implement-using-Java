@@ -1,3 +1,3 @@
-# contact-tracing-app
+# contact-tracing-app using Java
 
 Android Application 
