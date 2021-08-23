@@ -1,3 +1,3 @@
 # contact-tracing-app using Java
 
-Android Application 
+Android Application with REST API
